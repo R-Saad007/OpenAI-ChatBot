@@ -1,5 +1,6 @@
 # OpenAI-ChatBot
 
+### API Key: 
 ### Starting Bot
 ```python bot.py```
 
