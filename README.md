@@ -4,7 +4,7 @@
 ### Starting Bot
 ```python bot.py```
 ### Prerequisites:
-- OpenAI api library
+- OpenAI API library
 ```pip install openai```
 - Gradio for front-end visualization
 ```pip install gradio```
