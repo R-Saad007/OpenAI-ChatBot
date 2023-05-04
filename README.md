@@ -6,5 +6,5 @@
 ### Prerequisites:
 - ### OpenAI api library
 ```pip install openai```
-- ### Gradio for front-end visualizing
+- ### Gradio for front-end visualization
 ```pip install gradio```
