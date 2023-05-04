@@ -1,11 +1,10 @@
 # OpenAI-ChatBot
 
-### API Key: 
+### API Key: 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
 ### Starting Bot
 ```python bot.py```
-
 ### Prerequisites:
-- ### OpenAI api library
+- OpenAI api library
 ```pip install openai```
-- ### Gradio for front-end visualization
+- Gradio for front-end visualization
 ```pip install gradio```
