@@ -1,8 +1,7 @@
 # OpenAI-ChatBot
-
-### API Key: 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
 ### Starting Bot
 ```python bot.py```
+### Hosting URL: check bot.py for URL
 ### Prerequisites:
 - OpenAI API library
 ```pip install openai```
