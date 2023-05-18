@@ -1,6 +1,6 @@
 # OpenAI-ChatBot
 ### Starting Bot
-- Enter OpenAI API Key from your personal account
+- Enter OpenAI API Key from your personal account (OpenAI account)
 - ```python bot.py```
 ### Hosting URL
 check bot.py for URL
