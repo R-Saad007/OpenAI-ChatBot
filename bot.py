@@ -18,7 +18,7 @@ def chatbot(input):
         return reply
 
 inputs = gr.inputs.Textbox(lines=7, label="Chat with AI")
-outputs = gr.outputs.Textbox(label="Reply")
+outputs = gr.outputs.Textbox(label="ChatGPT 3.5")
 
 gr.Interface(fn=chatbot, inputs=inputs, outputs=outputs, title="AI Chatbot",
              description="Ask anything you want",
