@@ -5,7 +5,7 @@
 ### Hosting URL
 check bot.py terminal output for hosting URL
 ### Prerequisites:
-- OpenAI API library
+- OpenAI API library  
 ```pip install openai```
-- Gradio for front-end visualization
+- Gradio for front-end visualization  
 ```pip install gradio```
